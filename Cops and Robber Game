@@ -1,4 +1,5 @@
-/* first game is a cops and robbers game, the player choose the size of the board
+/*        -- An assignment I got in C coding course --
+   first game is a cops and robbers game, the player choose the size of the board
    then he decides how many copes he wants to have on the board and where
    to place them.
    the robber is placed in the middle and in each turn the player controlls his movement 
